@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "Nord",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Noto Sans Mono', 'monospace', monospace",
+  "editor.minimap.enabled": false,
+  "security.workspace.trust.enabled": false,
+  "editor.rulers": [120],
+  "[html]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[javascriptreact]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "editor.tabSize": 2,
+  "editor.dragAndDrop": false,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "chromium",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.startupEditor": "none",
+  "editor.codeActionsOnSave": {
+  
+  },
+}
