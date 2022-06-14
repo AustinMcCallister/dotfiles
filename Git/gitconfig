@@ -1,0 +1,9 @@
+[user]
+	name = Austin McCallister
+	email = austin.mccallister@protonmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[core]
+	pager = cat
